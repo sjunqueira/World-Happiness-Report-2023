@@ -2,6 +2,8 @@
 
 Este projeto tem como objetivo analisar os dados do World Happiness Report de 2023, um relatório anual publicado pela Organização das Nações Unidas (ONU) que avalia o bem-estar e a felicidade das pessoas em diversos países ao redor do mundo.
 
+O projeto ainda está em construção e passará por mudanças ao longo das próximas semanas.
+
 ## Objetivo:
 
 O objetivo deste projeto é explorar e visualizar os dados do World Happiness Report de 2023 para entender melhor como os fatores socioeconômicos e culturais afetam a felicidade das pessoas em diferentes países e regiões.
